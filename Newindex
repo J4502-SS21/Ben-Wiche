@@ -2,6 +2,7 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
     <title>Ben's Homepage</title>
     <meta name="description" content="Ben Wiche's website for j4502">
     <meta name="author" content="Ben Wiche">
@@ -18,6 +19,7 @@
   </ul>
 </nav>
 <p>Contact me at <a href="mailto:bpwchd@umsystem.edu">bpwchd@umsystem.edu</a></p>
+<p>Find my old website at <a href="https://j4502-ss21.github.io/Ben-Wiche/" </p>
 <a href="mailto:bpwchd@umsystem.edu">
 <img src="download.png" alt="Ben Wiche">
 </a>
