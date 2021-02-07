@@ -2,11 +2,19 @@ body {
   font-family: 'Noto Serif', sans-serif;
 text-align: center;
   background-color: lightblue;
+}
+
+a{
   img{border:0;}
 }
+
 
 h1 {
   font-family: 'Noto Serif', serif;
   text-align: center;
   color: navy;
 }
+
+h2{font-family: 'Noto Serif', serif;
+text-align: center;
+color: navy;}
