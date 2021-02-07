@@ -10,9 +10,9 @@ text-align: center;
   background-color: lightblue;
 }
 
-a{
-  img {border:0;}
-}
+p {font-family: 'Noto Sans', sans-serif;
+text-align: center;}
+
 ul {font-family: 'PT Sans Narrow',sans-serif;
   list-style-type: none;
 text-decoration: none;}
