@@ -10,6 +10,9 @@ text-align: center;
   background-color: lightblue;
 }
 
+img {border : 0;}
+img a {outline : none;}
+
 p {
   font-family: 'Noto Sans', sans-serif;
 text-align: center;
