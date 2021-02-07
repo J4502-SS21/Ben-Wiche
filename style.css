@@ -2,6 +2,7 @@ body {
   font-family: 'Noto Serif', sans-serif;
 text-align: center;
   background-color: lightblue;
+  img{border:0;}
 }
 
 h1 {
