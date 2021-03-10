@@ -1,13 +1,13 @@
 h1 {
-  font-family: 'Noto Serif', serif;
+  font-family: 'Bungee Inline';
   text-align: center;
-  color: navy;
+  color: purple;
 }
 
 body {
   font-family: 'Noto Sans', sans-serif;
 text-align: center;
-  background-color: lightblue;
+  background-color: purple;
 }
 
 img {border : 0;}
