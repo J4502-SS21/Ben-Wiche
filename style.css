@@ -26,6 +26,7 @@ text-align: center;
 color: gold;}
 
 nav{background color: gold
+  color:white
   float: center;
 display: flex;
 flex-direction: row;
