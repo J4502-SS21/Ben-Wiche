@@ -1,0 +1,29 @@
+h1 {
+  font-family: 'Bungee Inline';
+  text-align: center;
+  color: green;
+}
+
+body {
+  font-family: 'Mada';
+text-align: center;
+  background-color: purple;
+}
+
+img {border : 0;
+outline : none;
+align-content: center; }
+
+p {
+  font-family: 'Mada';
+text-align: center;
+color: gold
+}
+
+nav{background color: gold
+  color:white;
+  align-items: center;
+  font-size: 19px;
+margin-top: 0;
+font-size: 19px;
+}
