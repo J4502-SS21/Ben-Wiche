@@ -14,10 +14,18 @@ img {border : 0;
 outline : none;
 align-content: center; }
 
-p {
-  font-family: 'Mada';
-text-align: center;
-color: gold
+
+p{font-family: 'Mada';
+
+color: gold;
+
+margin-right: auto;
+
+margin-left: auto;
+
+max-width: 600px;
+
+text-align: left;
 }
 
 nav {
