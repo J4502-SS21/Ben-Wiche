@@ -12,7 +12,9 @@ text-align: center;
 
 img {border : 0;
 outline : none;
-align-content: center; }
+align-content: center;
+max-width: 600px;
+}
 
 
 p{font-family: 'Mada';
