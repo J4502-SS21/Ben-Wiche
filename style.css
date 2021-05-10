@@ -3,7 +3,9 @@ h1 {
   text-align: center;
   color: green;
     background: gold;
+    background-size: 50% auto;
     padding-top: 20px;
+
 }
 
 body {
