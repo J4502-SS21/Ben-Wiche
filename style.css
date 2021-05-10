@@ -2,6 +2,11 @@ h1 {
   font-family: 'Bungee Inline';
   text-align: center;
   color: green;
+    background: white;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 body {
